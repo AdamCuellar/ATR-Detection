@@ -1,3 +1,6 @@
+THIS IS ADAPTED FROM: https://github.com/qqwweee/keras-yolo3
+
+
 Required:
 
 Python 3
